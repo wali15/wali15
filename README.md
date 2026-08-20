@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-oxori16g3-walihaider035-6272s-projects.vercel.app/api?username=wali15&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-oxori16g3-walihaider035-6272s-projects.vercel.app/api/top-langs/?username=wali15&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats-khaki-chi-84.vercel.app/api?username=wali15&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-khaki-chi-84.vercel.app/api/top-langs/?username=wali15&layout=compact&theme=radical" />
 </p>
 
 ---
