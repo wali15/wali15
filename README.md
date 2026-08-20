@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | CI/CD, Cloud, Kubernetes & Network Infrastructure</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-khaki-chi-84.vercel.app?font=Fira+Code&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+Pipelines...;Managing+700%2B+Domains+DNS%2FEmail;Deploying+on+Kubernetes+with+Helm+%26+ArgoCD;99.8%25+Uptime+SLA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+Pipelines...;Managing+700%2B+Domains+DNS%2FEmail;Deploying+on+Kubernetes+with+Helm+%26+ArgoCD;99.8%25+Uptime+SLA" alt="Typing SVG" />
 </p>
 
 ---
