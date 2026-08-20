@@ -59,11 +59,6 @@
   <img height="165" src="https://github-readme-stats-khaki-chi-84.vercel.app/api/top-langs/?username=wali15&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-khaki-chi-84.vercel.app/api?username=wali15&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-khaki-chi-84.vercel.app/api/top-langs/?username=wali15&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 🏆 Selected Impact
